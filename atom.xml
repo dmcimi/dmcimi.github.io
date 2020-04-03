@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dmcimi</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://dmcimi.github.io/"/>
+  <updated>2020-03-30T00:55:51.160Z</updated>
+  <id>https://dmcimi.github.io/</id>
+  
+  <author>
+    <name>dmcimi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nice</title>
+    <link href="https://dmcimi.github.io/post/12068.html"/>
+    <id>https://dmcimi.github.io/post/12068.html</id>
+    <published>2020-03-29T19:28:14.000Z</published>
+    <updated>2020-03-30T00:55:51.160Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">输入密码，查看文章。</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="2a664d5a34562b63ace58fee84b25c3a2cf0e840d407f60aa32b9d7d777841a9">299781b0c879656d15b6af993649916602488166122f1db4f0ad3e6bf3d169cb</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      这是一篇加密文章，内容可能是个人情感宣泄或者收费技术。想看找我吧，XD
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>赠2020毕业生</title>
+    <link href="https://dmcimi.github.io/post/49411.html"/>
+    <id>https://dmcimi.github.io/post/49411.html</id>
+    <published>2020-03-14T16:00:00.000Z</published>
+    <updated>2020-03-30T00:55:51.171Z</updated>
+    
+    <content type="html"><![CDATA[<p>$$<br>劈荆斩棘问路来，<br>考场笔尖惊四方。<br>……（瞎想的语句)XD<br>$$</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;$$&lt;br&gt;劈荆斩棘问路来，&lt;br&gt;考场笔尖惊四方。&lt;br&gt;……（瞎想的语句)XD&lt;br&gt;$$&lt;/p&gt;
+&lt;hr&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="语录" scheme="https://dmcimi.github.io/categories/%E8%AF%AD%E5%BD%95/"/>
+    
+    
+      <category term="-语录" scheme="https://dmcimi.github.io/tags/%E8%AF%AD%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学输出测试</title>
+    <link href="https://dmcimi.github.io/post/50435.html"/>
+    <id>https://dmcimi.github.io/post/50435.html</id>
+    <published>2020-03-08T16:00:00.000Z</published>
+    <updated>2020-03-30T00:55:51.163Z</updated>
+    
+    <content type="html"><![CDATA[<p>$$<br>\frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2}\right)<br>$$</p><hr><p>$$<br>\alpha+\beta=\gamma<br>$$</p><hr><p>$$<br>\alpha+\beta=\gamma<br>$$</p><hr><p>$$<br>\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx<br>\sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx<br>$$</p><hr><p>$$<br>\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t<br>$$</p><hr><p>$$<br>\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}<br>$$</p><hr><p>$$<br>\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}<br>$$</p><hr><p>$$<br>有点好玩！！！XD<br>$$</p><hr><p>$$<br>y = f(x)<br>$$</p><hr><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;$$&lt;br&gt;\frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://dmcimi.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="-数学 -其他" scheme="https://dmcimi.github.io/tags/%E6%95%B0%E5%AD%A6-%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://dmcimi.github.io/post/37773.html"/>
+    <id>https://dmcimi.github.io/post/37773.html</id>
+    <published>2020-03-08T16:00:00.000Z</published>
+    <updated>2020-03-30T00:55:51.169Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好！这是测试页面，没啥好看的。<br>摸索摸索…..（其实这是第一次安装得这么好的博客，嘻嘻嘻XD)</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">删除线</span><br><span class="line">RUNOOB.COM</span><br><span class="line">GOOGLE.COM</span><br><span class="line">~~BAIDU.COM~~</span><br></pre></td></tr></table></figure><p>下划线<br><u>带下划线文本</u></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">脚注</span><br><span class="line">[^要注明的文本]</span><br><span class="line">实例:</span><br><span class="line">创建脚注格式类似这样 [^RUNOOB]。</span><br><span class="line"></span><br><span class="line">[^RUNOOB]: 菜！！！</span><br></pre></td></tr></table></figure><p>Markdown 列表<br>Markdown 支持有序列表和无序列表。</p><p>无序列表使用星号(*)、加号(+)或是减号(-)作为列表标记：</p><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul><ul><li>第一项</li><li>第二项</li><li>第三项</li><li>有序列表使用数字并加上 . 号来表示，如：</li></ul><ol><li>第一项</li><li>第二项</li><li>第三项 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">列表嵌套</span><br><span class="line">列表嵌套只需在子列表中的选项添加四个空格即可：</span><br><span class="line"></span><br><span class="line">1. 第一项：</span><br><span class="line">    - 第一项嵌套的第一个元素</span><br><span class="line">    - 第一项嵌套的第二个元素</span><br><span class="line">2. 第二项：</span><br><span class="line">    - 第二项嵌套的第一个元素</span><br><span class="line">    - 第二项嵌套的第二个元素</span><br></pre></td></tr></table></figure></li></ol><p>​    </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好！这是测试页面，没啥好看的。&lt;br&gt;摸索摸索…..（其实这是第一次安装得这么好的博客，嘻嘻嘻XD)&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;l
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://dmcimi.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="https://dmcimi.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文摘《西溪的晴语》</title>
+    <link href="https://dmcimi.github.io/post/108.html"/>
+    <id>https://dmcimi.github.io/post/108.html</id>
+    <published>2020-02-29T16:00:00.000Z</published>
+    <updated>2020-03-30T00:55:51.166Z</updated>
+    
+    <content type="html"><![CDATA[<p>#作者：郁达夫</p><p>—<strong>西北风未起，蟹也不曾肥，我原晓得芦花总还没有白，前两星期，源宁来看了西湖，说他倒觉得有点失望，因为湖光山色，太整齐，太小巧，不够味儿，他开来的一张节目上，原有西溪的一项；恰巧第二天又下了微雨，秋原和我就主张微雨里下西溪，好教源宁去尝一尝这西湖近旁的野趣。</strong></p><p>—<strong>天色是阴阴漠漠的一层，湿风吹来，有点儿冷，也有点儿香，香的是野草花的气息。车过方井旁边，自然又下车来，去看了一下那座天主圣教修士们的古墓。从墓门望进去，只是黑沈沈，冷冰冰的一个大洞，什么也看不见，鼻子里却闻吸到了一种霉灰的阴气。</strong></p><p>—<strong>把鼻子掀了两掀，耸了一耸肩膀，大家都说，可惜忘记带了电筒，但在下意识里，自然也有一种恐怖，不安，和畏缩的心意，在那里作恶，直到了花坞的溪旁，走进窗明几净的静莲庵(？)堂去坐下，喝了两碗清茶，这一些鬼胎，方才洗涤了个空空脱脱。</strong></p><p>—<strong>游西溪，本来是以松木场下船，带了酒盒行厨，慢慢儿地向西摇去为正宗。像我们那么高坐了汽车，飞鸣而过古荡，东岳，一个钟头要走百来里路的旅客，终于是难度的俗物，但是俗物也有俗益，你若坐在汽车座里，引颈而向西向北一望，直到湖州，只见一派空明，遥盖在淡绿成阴的斜平海上；这中间不见水，不见山，当然也不见人，只是渺渺茫茫，青青绿绿，远无岸，近亦无田园村落的一个大斜坡，过秦亭山后，一直到留下为止的那一条沿山大道上的景色，好处就在这里，尤其是当微雨朦胧，江南草长的春或秋的半中间。</strong></p><p>—<strong>从留下下船，回环曲折，一路向西向北，只在芦花浅水里打圈圈；圆桥茅舍，桑树蓼花，是本地的风光，还不足道；最古怪的，是剩在背后的一带湖上的青山，不知不觉，忽而又会得移上你的面前来，和你点一点头，又匆匆的别了。</strong></p><p>—<strong>摇船的少女，也总好算是西溪的一景；一个站在船尾把摇橹，一个坐在船头上使桨，身体一伸一俯，一往一来，和橹声的咿呀，水波的起落，凑合成一大又圆又曲的进行软调；游人到此，自然会想起瘦西湖边，竹西歌吹的闲情，而源宁昨天在漪园月下老人祠里求得的那枝灵签，仿佛是完全的应了，签诗的语文，是《鄘风·桑中》章末后的三句，叫作“期我乎桑中，要我乎上宫，送我乎淇之上矣”。</strong></p><p>—<strong>此后便到了交芦庵，上了弹指楼，因为是在雨里，带水拖泥，终于也感不到什么的大趣，但这一天向晚回来，在湖滨酒楼上放谈之下，源宁却一本正经地说：“今天的西溪，却比昨日的西湖，要好三倍。”</strong></p><p>—<strong>前天星期假日，日暖风和，并且在报上也曾看到了芦花怒放的消息；午后日斜，老龙夫妇，又来约去西溪，去的时候，太晚了一点，所以只在秋雪庵的弹指楼上，消磨了半日之半。一片斜阳，反照在芦花浅渚的高头，花也并未怒放，树叶也不曾凋落，原不见秋，更不见雪，只是一味的晴明浩荡，飘飘然，浑浑然，洞贯了我们的肠腑，老僧无相，烧了面，泡了茶，更送来了酒，末后还拿出了纸和墨，我们看看日影下的北高峰，看看庵旁边的芦花荡，就问无相，花要几时才能全白？老僧操着缓慢的楚国口音，微笑着说：“总要到阴历十月的中间；若有月亮，更为出色。”说后，还提出了一个交换的条件，要我们到那时候，再去一玩，他当预备些精馔相待，聊当作润笔，可是今天的字，却非写不可，老龙写了“一剑横飞破六合，万家憔悴哭三吴”的十四个字，我也附和着抄了一副不知在那里见过的联语：“春梦有时来枕畔，夕阳依旧上帘钩。”</strong></p><p>—<strong>喝得酒醉醺醺，走下楼来，小河里起了晚烟，船中间满载了黑暗，龙妇又逸兴遄飞，不知上那里去摸出了一枝洞箫来吹着。“其声呜呜然，如怨如慕，如泣如诉，余音袅袅，不绝如缕”，倒真有点像是七月既望，和东坡在赤壁的夜游。</strong></p><hr><p><strong>一九三五年十月二十二日</strong></p><p><strong>来源网络（侵权联系删除）</strong></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#作者：郁达夫&lt;/p&gt;
+&lt;p&gt;—&lt;strong&gt;西北风未起，蟹也不曾肥，我原晓得芦花总还没有白，前两星期，源宁来看了西湖，说他倒觉得有点失望，因为湖光山色，太整齐，太小巧，不够味儿，他开来的一张节目上，原有西溪的一项；恰巧第二天又下了微雨，秋原和我就主张微雨里下西溪，好教源
+      
+    
+    </summary>
+    
+    
+      <category term="文摘" scheme="https://dmcimi.github.io/categories/%E6%96%87%E6%91%98/"/>
+    
+    
+      <category term="-文摘 -笔记" scheme="https://dmcimi.github.io/tags/%E6%96%87%E6%91%98-%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://dmcimi.github.io/post/16107.html"/>
+    <id>https://dmcimi.github.io/post/16107.html</id>
+    <published>2020-02-24T16:00:00.000Z</published>
+    <updated>2020-03-30T00:55:51.157Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><hr><p>留着…..</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+      <category term="分类" scheme="https://dmcimi.github.io/categories/%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="其他" scheme="https://dmcimi.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+</feed>
