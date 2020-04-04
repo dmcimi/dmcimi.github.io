@@ -119,32 +119,6 @@
   </entry>
   
   <entry>
-    <title>数学输出测试</title>
-    <link href="https://dmcimi.github.io/post/50435.html"/>
-    <id>https://dmcimi.github.io/post/50435.html</id>
-    <published>2020-03-08T16:00:00.000Z</published>
-    <updated>2020-04-04T03:39:53.413Z</updated>
-    
-    <content type="html"><![CDATA[<p>$$<br>\frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2}\right)<br>$$</p><hr><p>$$<br>\alpha+\beta=\gamma<br>$$</p><hr><p>$$<br>\alpha+\beta=\gamma<br>$$</p><hr><p>$$<br>\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx<br>\sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx<br>$$</p><hr><p>$$<br>\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t<br>$$</p><hr><p>$$<br>\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}<br>$$</p><hr><p>$$<br>\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}<br>$$</p><hr><p>$$<br>y = f(x)<br>$$</p><hr><p><del>有点好玩！！！XD</del></p><p><br><br></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;$$&lt;br&gt;\frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2
-      
-    
-    </summary>
-    
-    
-      <category term="测试" scheme="https://dmcimi.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-      <category term="-数学 -其他" scheme="https://dmcimi.github.io/tags/%E6%95%B0%E5%AD%A6-%E5%85%B6%E4%BB%96/"/>
-    
-  </entry>
-  
-  <entry>
     <title>测试</title>
     <link href="https://dmcimi.github.io/post/37773.html"/>
     <id>https://dmcimi.github.io/post/37773.html</id>
@@ -168,6 +142,32 @@
     
     
       <category term="测试" scheme="https://dmcimi.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学输出测试</title>
+    <link href="https://dmcimi.github.io/post/50435.html"/>
+    <id>https://dmcimi.github.io/post/50435.html</id>
+    <published>2020-03-08T16:00:00.000Z</published>
+    <updated>2020-04-04T03:39:53.413Z</updated>
+    
+    <content type="html"><![CDATA[<p>$$<br>\frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2}\right)<br>$$</p><hr><p>$$<br>\alpha+\beta=\gamma<br>$$</p><hr><p>$$<br>\alpha+\beta=\gamma<br>$$</p><hr><p>$$<br>\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx<br>\sum_{1}^{2}\int_{0}^{1}f(x)dx \sum_{1}^{2}\int_{0}^{1}f(x)dx<br>$$</p><hr><p>$$<br>\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t<br>$$</p><hr><p>$$<br>\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}<br>$$</p><hr><p>$$<br>\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}<br>$$</p><hr><p>$$<br>y = f(x)<br>$$</p><hr><p><del>有点好玩！！！XD</del></p><p><br><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;$$&lt;br&gt;\frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://dmcimi.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="-数学 -其他" scheme="https://dmcimi.github.io/tags/%E6%95%B0%E5%AD%A6-%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
