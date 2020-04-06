@@ -46,6 +46,37 @@ html.page-music {
 }
 
 
+html.page-about {
+width:100%;
+height:100%;
+background: url(https://search.dmcimi.top/bing.php) no-repeat;
+-moz-background-size: cover; /*背景图片拉伸以铺满全屏*/
+-ms-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+}
+
+html.page-archives {
+width:100%;
+height:100%;
+background: url(https://search.dmcimi.top/bing.php) no-repeat;
+-moz-background-size: cover; /*背景图片拉伸以铺满全屏*/
+-ms-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+}
+
+
+html.page-category {
+width:100%;
+height:100%;
+background: url(https://search.dmcimi.top/bing.php) no-repeat;
+-moz-background-size: cover; /*背景图片拉伸以铺满全屏*/
+-ms-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+}
+
 .pgae-home img:hover {
 -webkit-transform: rotateZ(360deg);
 -moz-transform: rotateZ(360deg);
@@ -904,19 +935,3 @@ to {
 
 
 
-html.page-shuoshuo {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: url('https://cn.bing.com/th?id=OHR.PlaceofRainbows_ZH-CN7878813025_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp');
-  background-color: transparent;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  /*background: linear-gradient( #1abc9c, transparent), linear-gradient( 90deg, skyblue, transparent), linear-gradient( -90deg, coral, transparent);*/
-  /*background-blend-mode: screen;*/
-  /*background: linear-gradient(to left, #5f2c82, #49a09d);*/
-}
