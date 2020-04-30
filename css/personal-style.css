@@ -54,6 +54,10 @@ background: url(https://search.dmcimi.top/bing.php) no-repeat;
 -ms-background-size: cover;
 -webkit-background-size: cover;
 background-size: cover;
+background-color: transparent;
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
 
 html.page-archives {
@@ -64,6 +68,10 @@ background: url(https://search.dmcimi.top/bing.php) no-repeat;
 -ms-background-size: cover;
 -webkit-background-size: cover;
 background-size: cover;
+background-color: transparent;
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
 
 
@@ -75,6 +83,10 @@ background: url(https://search.dmcimi.top/bing.php) no-repeat;
 -ms-background-size: cover;
 -webkit-background-size: cover;
 background-size: cover;
+background-color: transparent;
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
 
 .pgae-home img:hover {
