@@ -460,15 +460,15 @@
 <script src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
 <script>
 const gitalk = new Gitalk({
-  clientID: '',
-  clientSecret: '',
+  clientID: '565c77e3800fd7c17234',
+  clientSecret: '0bea80789c6aeb7ae3b9557d81e509aada547140',
   repo: 'blog-comment',
-  owner: '565c77e3800fd7c17234',
+  owner: 'dmcimi',
   // 在这里设置一下截取前50个字符串, 这是因为 github 对 label 的长度有了要求, 如果超过
   // 50个字符串则会报错.
   // id: location.pathname.split('/').pop().substring(0, 49),
   id: md5(location.pathname),
-  admin: ['0bea80789c6aeb7ae3b9557d81e509aada547140'],
+  admin: ['dmcimi'],
   // facebook-like distraction free mode
   distractionFreeMode: false
 })
