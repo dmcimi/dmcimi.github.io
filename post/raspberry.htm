@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+
+
+  <html class="light page-post">
+
+
+<head>
+  <meta charset="utf-8">
+  
+  <title>bullseye换源 | Dmcimi&#39;Blog</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  
+    <meta name="keywords" content="记录、Raspberry," />
+  
+
+  <meta name="description" content="#由于树莓派在国内速度太慢，可以更换为国内软件源。1、更新&#x2F;etc&#x2F;apt&#x2F;sources.list  sudo cp &#x2F;etc&#x2F;apt&#x2F;sources.list &#x2F;etc&#x2F;apt&#x2F;sources.list.bak sudo nano &#x2F;etc&#x2F;apt&#x2F;sources.list 替换以下软件源 ARM(32位系统)  deb http:&#x2F;&#x2F;mirrors.ustc.edu.cn&#x2F;raspbian&#x2F;">
+<meta property="og:type" content="article">
+<meta property="og:title" content="bullseye换源">
+<meta property="og:url" content="http://blog.dmcimi.top/post/raspberry.htm">
+<meta property="og:site_name" content="Dmcimi&#39;Blog">
+<meta property="og:description" content="#由于树莓派在国内速度太慢，可以更换为国内软件源。1、更新&#x2F;etc&#x2F;apt&#x2F;sources.list  sudo cp &#x2F;etc&#x2F;apt&#x2F;sources.list &#x2F;etc&#x2F;apt&#x2F;sources.list.bak sudo nano &#x2F;etc&#x2F;apt&#x2F;sources.list 替换以下软件源 ARM(32位系统)  deb http:&#x2F;&#x2F;mirrors.ustc.edu.cn&#x2F;raspbian&#x2F;">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2022-03-27T13:44:05.000Z">
+<meta property="article:modified_time" content="2022-05-02T04:58:13.942Z">
+<meta property="article:author" content="Dmcimi">
+<meta property="article:tag" content="记录、Raspberry">
+<meta name="twitter:card" content="summary">
+
+  
+
+  
+    <link rel="icon" href="/images/favicon.ico">
+  
+
+  <link href="/css/styles.css?v=c114cbeddx" rel="stylesheet">
+
+
+  
+    
+<link rel="stylesheet" href="/css/personal-style.css">
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+  
+    <script async type="text/javascript" src="/js/src/hititle.js"></script>
+  
+
+  
+    <script async defer data-website-id="d271fffd-653e-4f63-b079-37c34e5654ac" src="https://wa.dmcimi.tk/umami.js"></script>
+   
+
+<meta name="generator" content="Hexo 5.4.2"><link rel="alternate" href="/atom.xml" title="Dmcimi'Blog" type="application/atom+xml">
+</head>
+
+<body>
+
+
+  
+    <span id="toolbox-mobile" class="toolbox-mobile">球球</span>
+  
+
+  <div class="post-header CENTER">
+   
+  <div class="toolbox">
+    <a class="toolbox-entry" href="/">
+      <span class="toolbox-entry-text">球球</span>
+      <i class="icon-angle-down"></i>
+      <i class="icon-home"></i>
+    </a>
+    <ul class="list-toolbox">
+      
+        <li class="item-toolbox">
+          <a
+            class="ROUND_RECT"
+            href="/archives/"
+            rel="noopener noreferrer"
+            target="_self"
+            >
+            博客
+          </a>
+        </li>
+      
+        <li class="item-toolbox">
+          <a
+            class="ROUND_RECT"
+            href="/category/"
+            rel="noopener noreferrer"
+            target="_self"
+            >
+            分类
+          </a>
+        </li>
+      
+        <li class="item-toolbox">
+          <a
+            class="ROUND_RECT"
+            href="/tag/"
+            rel="noopener noreferrer"
+            target="_self"
+            >
+            标签
+          </a>
+        </li>
+      
+        <li class="item-toolbox">
+          <a
+            class="ROUND_RECT"
+            href="/link/"
+            rel="noopener noreferrer"
+            target="_self"
+            >
+            友链
+          </a>
+        </li>
+      
+        <li class="item-toolbox">
+          <a
+            class="ROUND_RECT"
+            href="/about/"
+            rel="noopener noreferrer"
+            target="_self"
+            >
+            关于
+          </a>
+        </li>
+      
+        <li class="item-toolbox">
+          <a
+            class="ROUND_RECT"
+            href="/atom.xml"
+            rel="noopener noreferrer"
+            target="_blank"
+            >
+            RSS
+          </a>
+        </li>
+      
+        <li class="item-toolbox">
+          <a
+            class="ROUND_RECT"
+            href="/search/"
+            rel="noopener noreferrer"
+            target="_self"
+            >
+            搜索
+          </a>
+        </li>
+      
+    </ul>
+  </div>
+
+
+</div>
+
+
+
+
+<div class="content content-post CENTER">
+   <article id="post-bullseye换源" class="article article-type-post" itemprop="blogPost">
+  <header class="article-header">
+    <h1 class="post-title">bullseye换源</h1>
+
+    <div class="article-meta">
+      <span>
+        <i class="icon-calendar"></i>
+        <span>2022.03.27</span>
+      </span>
+
+      
+        <span class="article-author">
+          <i class="icon-user"></i>
+          <span>Dmcimi</span>
+        </span>
+      
+
+      
+  <span class="article-category">
+    <i class="icon-list"></i>
+    <a class="article-category-link" href="/categories/linux/">linux</a>
+  </span>
+
+
+
+      
+
+      
+      <i class="fa fa-eye"></i> 
+        <span id="busuanzi_container_page_pv">
+           &nbsp热度 <span id="busuanzi_value_page_pv">
+           <i class="fa fa-spinner fa-spin"></i></span>℃
+        </span>
+      
+      
+    </div>
+  </header>
+
+  <div class="article-content">
+    
+      <p>#由于树莓派在国内速度太慢，可以更换为国内软件源。<br>1、更新/etc/apt/sources.list</p>
+<p> sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak<br> sudo nano /etc/apt/sources.list</p>
+<p>替换以下软件源<br> ARM(32位系统)</p>
+<p> deb <a target="_blank" rel="noopener" href="http://mirrors.ustc.edu.cn/raspbian/raspbian/">http://mirrors.ustc.edu.cn/raspbian/raspbian/</a> bullseye main contrib non-free rpi<br> #deb-src <a target="_blank" rel="noopener" href="http://mirrors.ustc.edu.cn/raspbian/raspbian/">http://mirrors.ustc.edu.cn/raspbian/raspbian/</a> bullseye main contrib non-free rpi</p>
+<p> ARM64(64位系统)</p>
+<p> Arm64 架构的 Raspberry Pi OS 仍处于 beta 状态，中科大源亦不含此架构。对于 arm64 的 Raspberry Pi OS，可以直接使用 arm64 Debian 的源（以 Bullseye 示例）：<br> deb <a target="_blank" rel="noopener" href="https://mirrors.ustc.edu.cn/debian/">https://mirrors.ustc.edu.cn/debian/</a> bullseye main contrib non-free<br> #deb-src <a target="_blank" rel="noopener" href="http://mirrors.ustc.edu.cn/debian">http://mirrors.ustc.edu.cn/debian</a> bullseye main contrib non-free<br> deb <a target="_blank" rel="noopener" href="https://mirrors.ustc.edu.cn/debian/">https://mirrors.ustc.edu.cn/debian/</a> bullseye-updates main contrib non-free<br> #deb-src <a target="_blank" rel="noopener" href="http://mirrors.ustc.edu.cn/debian">http://mirrors.ustc.edu.cn/debian</a> bullseye-updates main contrib non-free<br> deb <a target="_blank" rel="noopener" href="https://mirrors.ustc.edu.cn/debian-security">https://mirrors.ustc.edu.cn/debian-security</a> bullseye-security main contrib non-free<br> #deb-src <a target="_blank" rel="noopener" href="http://mirrors.ustc.edu.cn/debian-security/">http://mirrors.ustc.edu.cn/debian-security/</a> bullseye-security main non-free contrib</p>
+<p>2、更新/etc/apt/sources.list.d/raspi.list</p>
+<p> sudo cp /etc/apt/sources.list.d/raspi.list.bak<br> sudo nano /etc/apt/sources.list.d/raspi.list</p>
+<p>替换以下软件源</p>
+<p> ARM(32位系统)</p>
+<p> deb <a target="_blank" rel="noopener" href="https://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/">https://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/</a> bullseye main<br> #deb-src <a target="_blank" rel="noopener" href="https://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/">https://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/</a> bullseye main</p>
+<p> ARM64(64位系统)</p>
+<p> deb <a target="_blank" rel="noopener" href="https://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/">https://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/</a> bullseye main<br> #deb-src <a target="_blank" rel="noopener" href="https://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/">https://mirrors.ustc.edu.cn/archive.raspberrypi.org/debian/</a> bullseye main</p>
+<p>3、更新</p>
+<p> sudo apt update &amp;&amp; sudo apt dist-upgrade</p>
+<p>4、The following signatures couldn’t be verified because the public key is not available: NO_PUBKEY xxxxxxxxxxxxxxxxxxx</p>
+<p> sudo apt-key adv –recv-keys –keyserver keyserver.ubuntu.com xxxxxxxxxxxxxxxxxxx</p>
+<p>4、EEPROM更新</p>
+<p> sudo apt update<br> sudo apt upgrade<br> sudo apt install rpi-eeprom<br> sudo rpi-eeprom-update</p>
+<p>4.1、官方自动更新</p>
+<p> sudo rpi-eeprom-update -a</p>
+<p>4.2、自定义更新</p>
+<p> wget <a target="_blank" rel="noopener" href="https://github.com/raspberrypi/rpi-eeprom/archive/master.zip">https://github.com/raspberrypi/rpi-eeprom/archive/master.zip</a></p>
+<p>解压进相应的路径</p>
+<p> unzip master.zip<br> cd rpi-eeprom-master/firmware/beta/<br> sudo rpi-eeprom-update -d -f 要更新的固件名称</p>
+<p>更新完成后重启树莓派</p>
+<p> sudo reboot</p>
+<p>官方链接<a target="_blank" rel="noopener" href="https://www.raspberrypi.org/documentation/hardware/raspberrypi/booteeprom.md">https://www.raspberrypi.org/documentation/hardware/raspberrypi/booteeprom.md</a></p>
+<p>5、树莓派正确swap分区</p>
+<p> sudo vi /etc/dphys-swapfile<br> sudo nano /etc/dphys-swapfile</p>
+<p>将 CONF_SWAPSIZE 的值修改成你想要的大小。</p>
+<p> sudo /etc/init.d/dphys-swapfile restart</p>
+<p>查看大小</p>
+<p> free -h</p>
+<p>Enjoy It！😍</p>
+
+    
+  </div>
+
+</article>
+
+
+   
+
+   
+  <div class="box-prev-next clearfix">
+    <a class="show pull-left" href="/post/9cb7.htm">
+        <i class="icon icon-angle-left"></i>
+    </a>
+    <a class="hide pull-right" href="/">
+        <i class="icon icon-angle-right"></i>
+    </a>
+  </div>
+
+
+
+
+</div>
+
+
+  <a id="backTop" class="back-top">
+    <i class="icon-angle-up"></i>
+  </a>
+
+
+
+
+  <div class="modal" id="modal">
+  <span id="cover" class="cover hide"></span>
+  <div id="modal-dialog" class="modal-dialog hide-dialog">
+    <div class="modal-header">
+      <span id="close" class="btn-close">关闭</span>
+    </div>
+    <hr>
+    <div class="modal-body">
+      <ul class="list-toolbox">
+        
+          <li class="item-toolbox">
+            <a
+              class="ROUND_RECT"
+              href="/archives/"
+              rel="noopener noreferrer"
+              target="_self"
+              >
+              博客
+            </a>
+          </li>
+        
+          <li class="item-toolbox">
+            <a
+              class="ROUND_RECT"
+              href="/category/"
+              rel="noopener noreferrer"
+              target="_self"
+              >
+              分类
+            </a>
+          </li>
+        
+          <li class="item-toolbox">
+            <a
+              class="ROUND_RECT"
+              href="/tag/"
+              rel="noopener noreferrer"
+              target="_self"
+              >
+              标签
+            </a>
+          </li>
+        
+          <li class="item-toolbox">
+            <a
+              class="ROUND_RECT"
+              href="/link/"
+              rel="noopener noreferrer"
+              target="_self"
+              >
+              友链
+            </a>
+          </li>
+        
+          <li class="item-toolbox">
+            <a
+              class="ROUND_RECT"
+              href="/about/"
+              rel="noopener noreferrer"
+              target="_self"
+              >
+              关于
+            </a>
+          </li>
+        
+          <li class="item-toolbox">
+            <a
+              class="ROUND_RECT"
+              href="/atom.xml"
+              rel="noopener noreferrer"
+              target="_blank"
+              >
+              RSS
+            </a>
+          </li>
+        
+          <li class="item-toolbox">
+            <a
+              class="ROUND_RECT"
+              href="/search/"
+              rel="noopener noreferrer"
+              target="_self"
+              >
+              搜索
+            </a>
+          </li>
+        
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+
+
+  
+      <div class="fexo-comments comments-post">
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+
+  </div>
+
+  
+
+  <script type="text/javascript">
+  function loadScript(url, callback) {
+    var script = document.createElement('script')
+    script.type = 'text/javascript';
+
+    if (script.readyState) { //IE
+      script.onreadystatechange = function() {
+        if (script.readyState == 'loaded' ||
+          script.readyState == 'complete') {
+          script.onreadystatechange = null;
+          callback();
+        }
+      };
+    } else { //Others
+      script.onload = function() {
+        callback();
+      };
+    }
+
+    script.src = url;
+    document.getElementsByTagName('head')[0].appendChild(script);
+  }
+
+  window.onload = function() {
+    loadScript('/js/bundle.js?235683', function() {
+      // load success
+    });
+  }
+</script>
+
+</body>
+</html>
