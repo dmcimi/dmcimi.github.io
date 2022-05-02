@@ -23,7 +23,7 @@
 <meta property="og:description" content="由于网上大多安装LNMP环境教程新旧不一。为了记录，此篇Ubuntu20.04LTS安装LNMP环境教程。1、 安装nginx1.1 更新可用软件包列表apt update &amp;&amp; apt upgrade &amp;&amp; apt autoremove 1.2 安装nginxsudo apt install nginx 1.3 启动、设置开机启动nginxsudo systemc">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2022-03-08T15:45:14.000Z">
-<meta property="article:modified_time" content="2022-05-02T04:58:55.541Z">
+<meta property="article:modified_time" content="2022-05-02T05:19:56.487Z">
 <meta property="article:author" content="Dmcimi">
 <meta property="article:tag" content="LNMP">
 <meta name="twitter:card" content="summary">
@@ -271,6 +271,7 @@
 <hr>
 <h3 id="6、防ssh爆破简单防护"><a href="#6、防ssh爆破简单防护" class="headerlink" title="6、防ssh爆破简单防护"></a>6、防ssh爆破简单防护</h3><p>#以Ubuntu为例<br>apt-get install fail2ban<br>#直接复制粘贴全部到SSH窗口即可<br>#配置参数<br>fail2ban=”/etc/fail2ban/jail.d/sshd.local”<br>cat&gt;”${fail2ban}”&lt;&lt;EOF<br>[ssh-iptables]<br>enabled  = true<br>filter   = sshd<br>action   = iptables[name=SSH, port=ssh, protocol=tcp]<br>logpath  = /var/log/auth.log   # 如果是Centos路径要改/var/log/secure这个<br>maxretry = 10   # 最多连接10次失败<br>bantime  = 777600   # 禁止9天（按秒单位1天86400）<br>EOF<br>#启动&amp;开机自启<br>systemctl start fail2ban.service<br>systemctl enable fail2ban.service<br>systemctl status fail2ban.service</p>
 <p>ALL done Enjoy it</p>
+<p><br><br></p>
 
     
   </div>
